@@ -1,4 +1,4 @@
-# Структура
+# Структура Python
 Created Friday 28 November 2025
 **Иерархия языка**
 
